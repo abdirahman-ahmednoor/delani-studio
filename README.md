@@ -21,7 +21,7 @@ To access this project  on you local files, you can clone it using the following
 6. JQUERY
 
 ## LIVE SETUP
-View [LIVE]  https://abdirahman-ahmednoor.github.io/delani-studio/
+View [LIVE]  (https://abdirahman-ahmednoor.github.io/delani-studio/)
 
 ## LICENSE
 This project is under the [MIT](LICENSE) license
