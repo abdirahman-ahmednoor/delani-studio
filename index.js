@@ -38,7 +38,7 @@ $(document).ready(function(){
 
 //First Image
 $(document).ready(function(){
-    $("#ubuntu").hover(function(){
+    $("#nasa").hover(function(){
         $(".pot-1").css("opacity",0.9)
         $(".carier-text-1").css("opacity",1)
     },
@@ -51,7 +51,7 @@ $(document).ready(function(){
 
 //Second  Image
 $(document).ready(function(){
-    $("#fedora").hover(function(){
+    $("#indoor").hover(function(){
         $(".pot-2").css("opacity",0.9)
         $(".carier-text-2").css("opacity",1)
     },
@@ -64,7 +64,7 @@ $(document).ready(function(){
 
 //Third Image
 $(document).ready(function(){
-    $("#mint").hover(function(){
+    $("#oreo").hover(function(){
         $(".pot-3").css("opacity",0.9)
         $(".carier-text-3").css("opacity",1)
     },
@@ -76,7 +76,7 @@ $(document).ready(function(){
 
 //Fourth Image
 $(document).ready(function(){
-    $("#kubuntu").hover(function(){
+    $("#ace").hover(function(){
         $(".pot-4").css("opacity",0.9)
         $(".carier-text-4").css("opacity",1)
     },
@@ -90,7 +90,7 @@ $(document).ready(function(){
 
 //Fifth Image
 $(document).ready(function(){
-    $("#ios").hover(function(){
+    $("#maskman").hover(function(){
         $(".pot-5").css("opacity",0.9)
         $(".carier-text-5").css("opacity",1)
     },
@@ -104,7 +104,7 @@ $(document).ready(function(){
 
 //Sixth Image
 $(document).ready(function(){
-    $("#spring").hover(function(){
+    $("#milkshake").hover(function(){
         $(".pot-6").css("opacity",0.9)
         $(".carier-text-6").css("opacity",1)
     },
@@ -117,7 +117,7 @@ $(document).ready(function(){
 
 //Seventh Image
 $(document).ready(function(){
-    $("#rest").hover(function(){
+    $("#bolt").hover(function(){
         $(".pot-7").css("opacity",0.9)
         $(".carier-text-7").css("opacity",1)
     },
@@ -130,7 +130,7 @@ $(document).ready(function(){
 
 //Eighth Image
 $(document).ready(function(){
-    $("#angular").hover(function(){
+    $("#uber").hover(function(){
         $(".pot-8").css("opacity",0.9)
         $(".carier-text-8").css("opacity",1)
     },
