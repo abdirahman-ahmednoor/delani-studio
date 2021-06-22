@@ -148,10 +148,10 @@ $(document).ready(function(){
         let message = $("#comment").val();
     
         if(name,email, message == ''){
-         alert("Fill all the field entries to make a complete subscription")
+         alert("Fill all the field passages to make a total membership")
         }
         else {
-            alert(`Greetings ${name}! You have just joined the best Mailing list ever! Be sure to keep an eye on ${email} for the best offers from us.`);
+            alert(`Hello ${name}!You have quite recently joined the best Mailing list ever! Make sure to watch out for ${email} for the best offers from us.`);
         }
         
     })
